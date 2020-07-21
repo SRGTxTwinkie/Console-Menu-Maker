@@ -1,0 +1,5 @@
+C:\Users\zaned\source\repos\MenuTemplate\bin\Debug\MenuTemplate.dll
+C:\Users\zaned\source\repos\MenuTemplate\bin\Debug\MenuTemplate.pdb
+C:\Users\zaned\source\repos\MenuTemplate\obj\Debug\MenuTemplate.dll
+C:\Users\zaned\source\repos\MenuTemplate\obj\Debug\MenuTemplate.pdb
+C:\Users\zaned\source\repos\MenuTemplate\obj\Debug\MenuTemplate.csprojAssemblyReference.cache
